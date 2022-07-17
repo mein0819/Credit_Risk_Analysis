@@ -11,6 +11,16 @@ The purpose of this project is to use machine learning to help evaluate credit c
 
 ## Results
 
-### RandomOverSampler Model
+### Naive RandomOverSampler Model
+
+![randomoversampling](https://github.com/mein0819/Credit_Risk_Analysis/blob/main/readMeImages/naiveOverSampling.png)
+
+- Balanced Accuracy Score: 63%
+- Precision High-Risk: 1%
+- Precision Low-Risk: 100%
+- Recall High-Risk: 57%
+- Recall Low-Risk: 68%
+
+### SMOTE Oversampling
 
 !
