@@ -23,4 +23,12 @@ The purpose of this project is to use machine learning to help evaluate credit c
 
 ### SMOTE Oversampling
 
-!
+![smote](https://github.com/mein0819/Credit_Risk_Analysis/blob/main/readMeImages/smoteOversampling.png)
+
+- Balanced Accuracy Score: 63%
+- Precision High-Risk: 1%
+- Precision Low-Risk: 100%
+- Recall High-Risk: 57%
+- Recall Low-Risk: 68%
+
+
