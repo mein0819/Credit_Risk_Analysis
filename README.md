@@ -53,5 +53,11 @@ The purpose of this project is to use machine learning to help evaluate credit c
 
 ### Balanced Random Forest Classifier
 
+![brfc](https://github.com/mein0819/Credit_Risk_Analysis/blob/main/readMeImages/balancedRFC.png)
 
+- Balanced Accuracy Score: 77%
+- Precision High-Risk: 3%
+- Precision Low-Risk: 100%
+- Recall High-Risk: 66%
+- Recall Low-Risk: 88%
 
