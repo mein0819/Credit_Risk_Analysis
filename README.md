@@ -61,3 +61,16 @@ The purpose of this project is to use machine learning to help evaluate credit c
 - Recall High-Risk: 66%
 - Recall Low-Risk: 88%
 
+### Easy Ensemble AdaBoost Classifier
+
+![adaboost](https://github.com/mein0819/Credit_Risk_Analysis/blob/main/readMeImages/adaBoost.png)
+
+- Balanced Accuracy Score: 92%
+- Precision High-Risk: 9%
+- Precision Low-Risk: 100%
+- Recall High-Risk: 89%
+- Recall Low-Risk: 94%
+
+## Summary
+
+After reviewing all six models it's clear that the EasyEnsemble AdaBoost Classifier shows the best results with this dataset. This algorithm has a Balanced accuracy rate of 92%, a recall score of 89% for high-risk loans and 94% for low-risk loans, and a F1 score of 96%. This would be the recommended algorithm for this analysis. Overall, both ensemble learners outperformed the four resampling models, with all four of those models showing a balanced accuracy score of 65% or below and recall rates of 70% or below. 
