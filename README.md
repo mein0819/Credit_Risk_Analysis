@@ -41,7 +41,17 @@ The purpose of this project is to use machine learning to help evaluate credit c
 - Recall High-Risk: 61%
 - Recall Low-Risk: 45%
 
-### SMOTEEN Over- and Undersampling
+### SMOTEENN Over- and Undersampling
+
+![smoteenn](https://github.com/mein0819/Credit_Risk_Analysis/blob/main/readMeImages/smoteenn.png)
+
+- Balanced Accuracy Score: 65%
+- Precision High-Risk: 1%
+- Precision Low-Risk: 100%
+- Recall High-Risk: 70%
+- Recall Low-Risk: 61%
+
+### Balanced Random Forest Classifier
 
 
 
